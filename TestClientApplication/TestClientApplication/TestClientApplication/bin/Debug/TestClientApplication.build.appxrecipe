@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MINAKOV-W8</Machine>
+    <WindowsUser>minakov</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\bin\Debug\TestClientApplication.exe">
+      <PackagePath>TestClientApplication.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\bin\Debug\TestClientApplication.pdb">
+      <PackagePath>TestClientApplication.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\DataServiceHelper\bin\Debug\DataServiceHelper.pdb">
+      <PackagePath>DataServiceHelper.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\DataServiceHelper\bin\Debug\DataServiceHelper.dll">
+      <PackagePath>DataServiceHelper.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\packages\Microsoft.Data.OData.WindowsStore.5.0.0\lib\.NETCore\Microsoft.Data.Edm.WindowsStore.dll">
+      <PackagePath>Microsoft.Data.Edm.WindowsStore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\packages\Microsoft.Data.OData.WindowsStore.5.0.0\lib\.NETCore\Microsoft.Data.OData.WindowsStore.dll">
+      <PackagePath>Microsoft.Data.OData.WindowsStore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\packages\Microsoft.Data.Services.Client.WindowsStore.5.0.0\lib\.NETCore\Microsoft.Data.Services.Client.WindowsStore.dll">
+      <PackagePath>Microsoft.Data.Services.Client.WindowsStore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\packages\Microsoft.Data.OData.WindowsStore.5.0.0\lib\.NETCore\System.Spatial.WindowsStore.dll">
+      <PackagePath>System.Spatial.WindowsStore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\packages\Microsoft.Data.OData.WindowsStore.5.0.0\lib\.NETCore\Microsoft.Data.Edm.WindowsStore.xml">
+      <PackagePath>Microsoft.Data.Edm.WindowsStore.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\packages\Microsoft.Data.OData.WindowsStore.5.0.0\lib\.NETCore\Microsoft.Data.OData.WindowsStore.xml">
+      <PackagePath>Microsoft.Data.OData.WindowsStore.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\packages\Microsoft.Data.Services.Client.WindowsStore.5.0.0\lib\.NETCore\Microsoft.Data.Services.Client.WindowsStore.xml">
+      <PackagePath>Microsoft.Data.Services.Client.WindowsStore.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\packages\Microsoft.Data.OData.WindowsStore.5.0.0\lib\.NETCore\System.Spatial.WindowsStore.xml">
+      <PackagePath>System.Spatial.WindowsStore.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\DevExpress.png">
+      <PackagePath>DevExpress.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\ExpressAppLogo.png">
+      <PackagePath>ExpressAppLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\Logo.png">
+      <PackagePath>Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\bin\Debug\Views\MyListView.xaml">
+      <PackagePath>Views\MyListView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\DataServiceHelper\DataModel.csproj;neutral
+C:\visual studio 2012Projects\TestClientApplication\TestClientApplication\TestClientApplication\TestClientApplication.csproj;neutral
